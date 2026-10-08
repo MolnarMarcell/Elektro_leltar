@@ -1,0 +1,3 @@
+Telepítéshez használd ezt a commandot
+
+npm install axios

@@ -1,0 +1,4 @@
+
+Telepítéshez használd ezt a commandot
+
+npm install express dotenv mysql2 nodemon cors
