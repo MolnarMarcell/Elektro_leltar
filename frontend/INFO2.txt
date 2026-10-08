@@ -1,3 +1,4 @@
 Telepítéshez használd ezt a commandot
 
 npm install axios
+npm i react-snowfall
